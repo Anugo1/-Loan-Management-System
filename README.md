@@ -6,6 +6,4 @@ The Loan Management System is designed to efficiently handle loan-related proces
 ### To run the code
 #### Run `node index.js`
 
-#### And your result should be 
-`
-
+#### **Note** : class diagram is in uploads, check files in repo
