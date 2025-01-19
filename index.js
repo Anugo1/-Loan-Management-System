@@ -138,8 +138,8 @@ class LoanRequest {
 }
 
 // Example Usage
-const customer = new Customer("user123", "pass123", "2025-01-19", "John Doe", "john@example.com", 1234567890);
-const admin = new Administrator("admin123", "adminpass", "2025-01-19", "Admin Name", "admin@example.com");
+const customer = new Customer("user123", "pass123", "2000-01-19", "anugo", "john@gmail.com", 1234567890);
+const admin = new Administrator("Admin2", "adminpass", "2000-01-19", "Admin Name", "myguygmail.com");
 const view = new View();
 const loanRequest = new LoanRequest("Personal Loan", 5000);
 
